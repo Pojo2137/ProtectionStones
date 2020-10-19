@@ -11,7 +11,7 @@ uuidupdated = true
 # ---------------------------------------------------------------------------------------
 
 # Cooldown between placing protection blocks (in seconds). -1 to disable.
-placing_cooldown = -1
+placing_cooldown = 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 
 # Set to true to not block server startup for loading the UUID cache.
 # /ps add and /ps remove will not work for offline players until the cache is finished loading.
